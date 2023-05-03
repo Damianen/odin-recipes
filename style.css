@@ -1,0 +1,31 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
+
+.firstblock {
+    text-align: center;
+    border-radius: 50px;
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    width: fit-content;
+    padding: 10px;
+    margin: auto;
+    background-color: darkgreen;
+}
+
+.title {
+    text-align: center;
+    display: inline-block;
+}
+
+.description {
+    text-align: center;
+    display: inline-block;
+    width: 300px;
+}
